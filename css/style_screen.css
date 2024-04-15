@@ -314,7 +314,7 @@ h3 {
 }
 
 #matra_ms80 {
-    background: url('http://www.aformulaonehistory.com/img/cars/matra_ms80.jpg') no-repeat center center;
+    background: url('/img/cars/matra_ms80.jpg') no-repeat center center;
     background-size: contain;
     height: 101%;
     overflow: hidden;
