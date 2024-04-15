@@ -12,7 +12,7 @@ h3 {
 }
 
 #header {
-    background: #f8f8f8 url('http://www.aformulaonehistory.com/img/af1historylogo-01.png') no-repeat center center;
+    background: #f8f8f8 url('../img/af1historylogo-01.png') no-repeat center center;
     height: 175px;
     left: 0;
     width: 100%;

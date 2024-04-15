@@ -12,7 +12,7 @@ h2 {
 }
 
 #header {
-    background: #f8f8f8 url('http://www.aformulaonehistory.com/img/af1historylogo-01.png') no-repeat center center;
+    background: #f8f8f8 url('../img/af1historylogo-01.png') no-repeat center center;
     height: 175px;
     left: 0;
     width: 100%;
@@ -305,7 +305,7 @@ h2 {
 }
 
 #matra_ms80 {
-    background: url('http://www.aformulaonehistory.com/img/cars/matra_ms80.jpg') no-repeat center center;
+    background: url('../img/cars/matra_ms80.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -313,7 +313,7 @@ h2 {
 }
 
 #lotus_49b {
-    background: url('http://www.aformulaonehistory.com/img/cars/lotus_49b.jpg') no-repeat center center;
+    background: url('../img/cars/lotus_49b.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -321,7 +321,7 @@ h2 {
 }
 
 #brabham_bt24 {
-    background: url('http://www.aformulaonehistory.com/img/cars/brabham_bt24.jpg') no-repeat center center;
+    background: url('../img/cars/brabham_bt24.jpg') no-repeat center center;
     background-size: auto 80%;
     border-bottom: 8px dashed #1b2618;
     height: 1200px;
@@ -330,7 +330,7 @@ h2 {
 }
 
 #brabham_bt19 {
-    background: url('http://www.aformulaonehistory.com/img/cars/brabham_bt19.jpg') no-repeat center center;
+    background: url('../img/cars/brabham_bt19.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -338,7 +338,7 @@ h2 {
 }
 
 #lotus_33 {
-    background: url('http://www.aformulaonehistory.com/img/cars/lotus_33.jpg') no-repeat center center;
+    background: url('../img/cars/lotus_33.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -346,7 +346,7 @@ h2 {
 }
 
 #ferrari_158 {
-    background: url('http://www.aformulaonehistory.com/img/cars/ferrari_158_f1.jpg') no-repeat center center;
+    background: url('../img/cars/ferrari_158_f1.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -354,7 +354,7 @@ h2 {
 }
 
 #lotus_25 {
-    background: url('http://www.aformulaonehistory.com/img/cars/lotus_25.jpg') no-repeat center center;
+    background: url('../img/cars/lotus_25.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -362,7 +362,7 @@ h2 {
 }
 
 #brm_p57 {
-    background: url('http://www.aformulaonehistory.com/img/cars/brm_p57.jpg') no-repeat center center;
+    background: url('../img/cars/brm_p57.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -370,7 +370,7 @@ h2 {
 }
 
 #ferrari_156 {
-    background: url('http://www.aformulaonehistory.com/img/cars/ferrari_156_f1.jpg') no-repeat center center;
+    background: url('../img/cars/ferrari_156_f1.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -378,7 +378,7 @@ h2 {
 }
 
 #cooper_t53 {
-    background: url('http://www.aformulaonehistory.com/img/cars/cooper_t53.jpg') no-repeat center center;
+    background: url('../img/cars/cooper_t53.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -387,7 +387,7 @@ h2 {
 }
 
 #cooper_t51 {
-    background: url('http://www.aformulaonehistory.com/img/cars/cooper_t51.jpg') no-repeat center center;
+    background: url('../img/cars/cooper_t51.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -395,7 +395,7 @@ h2 {
 }
 
 #ferrari_246_f1 {
-    background: url('http://www.aformulaonehistory.com/img/cars/ferrari_246_f1.jpg') no-repeat center center;
+    background: url('../img/cars/ferrari_246_f1.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -403,7 +403,7 @@ h2 {
 }
 
 #maserati_250f {
-    background: url('http://www.aformulaonehistory.com/img/cars/maserati_250f.jpg') no-repeat center center;
+    background: url('../img/cars/maserati_250f.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -411,7 +411,7 @@ h2 {
 }
 
 #lancia_ferrari_d50 {
-    background: url('http://www.aformulaonehistory.com/img/cars/lancia_ferrari_d50.jpg') no-repeat center center;
+    background: url('../img/cars/lancia_ferrari_d50.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -419,7 +419,7 @@ h2 {
 }
 
 #mercedes_w196_2 {
-    background: url('http://www.aformulaonehistory.com/img/cars/mercedes_w196_2.jpg') no-repeat center center;
+    background: url('../img/cars/mercedes_w196_2.jpg') no-repeat center center;
     border-bottom: 8px dashed #afafaf;
     background-size: auto 80%;
     height: 1200px;
@@ -428,7 +428,7 @@ h2 {
 }
 
 #mercedes_w196_1 {
-    background: url('http://www.aformulaonehistory.com/img/cars/mercedes_w196_1.jpg') no-repeat center center;
+    background: url('../img/cars/mercedes_w196_1.jpg') no-repeat center center;
     background-size: auto 80%;
     height: 1200px;
     overflow: hidden;
@@ -436,7 +436,7 @@ h2 {
 }
 
 #ferrari_500_2 {
-    background: url('http://www.aformulaonehistory.com/img/cars/ferrari_500_2.jpg') no-repeat center center;
+    background: url('../img/cars/ferrari_500_2.jpg') no-repeat center center;
     border-bottom: 8px dashed #971216;
     background-size: auto 70%;
     height: 1200px;
@@ -445,7 +445,7 @@ h2 {
 }
 
 #ferrari_500_1 {
-    background: url('http://www.aformulaonehistory.com/img/cars/ferrari_500_1.jpg') no-repeat center center;
+    background: url('../img/cars/ferrari_500_1.jpg') no-repeat center center;
     background-size: auto 70%;
     height: 1200px;
     overflow: hidden;
@@ -453,7 +453,7 @@ h2 {
 }
 
 #alfa_romeo_159 {
-    background: url('http://www.aformulaonehistory.com/img/cars/alfa_romeo_159.jpg') no-repeat center center;
+    background: url('../img/cars/alfa_romeo_159.jpg') no-repeat center center;
     border-bottom: 8px dashed #8d141d;
     background-size: auto 60%;
     height: 1200px;
@@ -462,7 +462,7 @@ h2 {
 }
 
 #alfa_romeo_158 {
-    background: url('http://www.aformulaonehistory.com/img/cars/alfa_romeo_158.jpg') no-repeat center center;
+    background: url('../img/cars/alfa_romeo_158.jpg') no-repeat center center;
     background-size: auto 60%;
     height: 1200px;
     overflow: hidden;
