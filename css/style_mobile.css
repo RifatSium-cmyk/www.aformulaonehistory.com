@@ -1,0 +1,510 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h2 {
+    display: none;
+}
+
+#image-list {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#header {
+    background: #f8f8f8 url('http://www.aformulaonehistory.com/img/af1historylogo-01.png') no-repeat center center;
+    height: 175px;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    z-index: 9;
+}
+
+#social_icons {
+    margin-top: 125px;
+    margin-left: 30px;
+    float: left;
+    font-size: 32px;
+}
+
+#social_icons a {
+    text-decoration: none;
+    color: #ddd;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    /* ...and now for the proper property */
+    transition: .5s;
+}
+
+#chrome {
+    display: none;
+}
+
+#facebook {
+    margin-right: 5px;
+}
+
+#facebook:active {
+    color: 7086b2;
+}
+
+#twitter:active {
+    color: 43adcc;
+}
+
+#about {
+    left: 30px;
+    bottom: 30px;
+    float: left;
+    position: fixed;
+    font-family: "brandon-grotesque";
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 140px;
+    letter-spacing: .5px;
+    text-align: center;
+    width: 140px;
+    height: 140px;
+    background: #f8f8f8;
+    -moz-border-radius: 70px;
+    -webkit-border-radius: 70px;
+    border-radius: 70px;
+    z-index: 200;
+    opacity: 0.4;
+    text-decoration: none;
+    color: #111;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    /* ...and now for the proper property */
+    transition: .5s;
+}
+
+#top {
+    display: none;
+    left: 30px;
+    top: 30px;
+    float: left;
+    position: fixed;
+    font-family: "brandon-grotesque";
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 140px;
+    letter-spacing: .5px;
+    text-align: center;
+    width: 140px;
+    height: 140px;
+    background: #f8f8f8;
+    -moz-border-radius: 70px;
+    -webkit-border-radius: 70px;
+    border-radius: 70px;
+    z-index: 200;
+    opacity: 0.4;
+    text-decoration: none;
+    color: #111;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    /* ...and now for the proper property */
+    transition: .5s;
+}
+
+#footer {
+    background-color: #f8f8f8;
+    height: 80px;
+    width: 100%;
+    padding: 10px 0;
+    font-family: "brandon-grotesque";
+    font-weight: 400;
+    letter-spacing: .5px;
+}
+
+#footer_content {
+    padding-top: 30px;
+    margin: auto;
+}
+
+#social {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+#thanks {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+    color: #aaa;
+    padding-bottom: 40px;
+}
+
+#social a {
+    font-family: "brandon-grotesque";
+    font-weight: 400;
+    font-size: 30px;
+    color: #c33;
+    text-decoration: none;
+}
+
+#social a:hover {
+    color: #999;
+}
+
+#thanks a {
+    font-family: "brandon-grotesque";
+    font-weight: 400;
+    font-size: 20px;
+    color: #999;
+    text-decoration: none;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    /* ...and now for the proper property */
+    transition: .5s;
+}
+
+#thanks a:hover {
+    color: #C33;
+}
+
+.trattino {
+    border: none;
+    border-bottom: 4px solid white;
+    width: 50px;
+    margin: 0 auto;
+}
+
+.trattino_nero {
+    border: none;
+    border-bottom: 4px solid black;
+    width: 50px;
+    margin: 0 auto;
+}
+
+.trattino_mobile {
+    border: none;
+    border-bottom: 2px solid black;
+    width: 30px;
+    margin: 15 auto 15 auto;
+    ;
+}
+
+.year {
+    font-family: "brandon-grotesque";
+    font-size: 57px;
+    font-weight: 900;
+    letter-spacing: 10px;
+    margin-right: -10px;
+    color: #FFF;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+.car_text {
+    width: 100%;
+    height: 36px;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    bottom: 155px;
+    left: 0;
+    position: absolute;
+}
+
+.model {
+    font-family: "franklin-gothic-ext-comp-urw";
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    padding-bottom: 10px;
+    color: #FFF;
+}
+
+.line {
+    border: none;
+    border-bottom: 2px solid white;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.driver {
+    font-family: "franklin-gothic-ext-comp-urw";
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 6px;
+    padding-top: 10px;
+    color: #FFF;
+}
+
+#description {
+    text-align: center;
+    background-color: #444444;
+    overflow: hidden;
+}
+
+#description h1 {
+    font-family: "franklin-gothic-ext-comp-urw";
+    letter-spacing: 5px;
+    font-size: 85px;
+    padding-top: 200px;
+    margin-bottom: 50px;
+}
+
+#description p {
+    width: 65%;
+    font-family: "brandon-grotesque";
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 53px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+}
+
+#description h3 {
+    font-family: "brandon-grotesque";
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: .5px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 200px;
+    padding-top: 30px;
+}
+
+#description a {
+    font-family: "brandon-grotesque";
+    font-weight: 400;
+    font-size: 25px;
+    color: #999;
+    text-decoration: none;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    /* ...and now for the proper property */
+    transition: .5s;
+}
+
+#description a:hover {
+    color: #FFF;
+}
+
+#matra_ms80 {
+    background: url('http://www.aformulaonehistory.com/img/cars/matra_ms80.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#lotus_49b {
+    background: url('http://www.aformulaonehistory.com/img/cars/lotus_49b.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#brabham_bt24 {
+    background: url('http://www.aformulaonehistory.com/img/cars/brabham_bt24.jpg') no-repeat center center;
+    background-size: auto 80%;
+    border-bottom: 8px dashed #1b2618;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#brabham_bt19 {
+    background: url('http://www.aformulaonehistory.com/img/cars/brabham_bt19.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#lotus_33 {
+    background: url('http://www.aformulaonehistory.com/img/cars/lotus_33.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#ferrari_158 {
+    background: url('http://www.aformulaonehistory.com/img/cars/ferrari_158_f1.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#lotus_25 {
+    background: url('http://www.aformulaonehistory.com/img/cars/lotus_25.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#brm_p57 {
+    background: url('http://www.aformulaonehistory.com/img/cars/brm_p57.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#ferrari_156 {
+    background: url('http://www.aformulaonehistory.com/img/cars/ferrari_156_f1.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#cooper_t53 {
+    background: url('http://www.aformulaonehistory.com/img/cars/cooper_t53.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+    border-bottom: 8px dashed #171e1b;
+}
+
+#cooper_t51 {
+    background: url('http://www.aformulaonehistory.com/img/cars/cooper_t51.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#ferrari_246_f1 {
+    background: url('http://www.aformulaonehistory.com/img/cars/ferrari_246_f1.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#maserati_250f {
+    background: url('http://www.aformulaonehistory.com/img/cars/maserati_250f.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#lancia_ferrari_d50 {
+    background: url('http://www.aformulaonehistory.com/img/cars/lancia_ferrari_d50.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#mercedes_w196_2 {
+    background: url('http://www.aformulaonehistory.com/img/cars/mercedes_w196_2.jpg') no-repeat center center;
+    border-bottom: 8px dashed #afafaf;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#mercedes_w196_1 {
+    background: url('http://www.aformulaonehistory.com/img/cars/mercedes_w196_1.jpg') no-repeat center center;
+    background-size: auto 80%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#ferrari_500_2 {
+    background: url('http://www.aformulaonehistory.com/img/cars/ferrari_500_2.jpg') no-repeat center center;
+    border-bottom: 8px dashed #971216;
+    background-size: auto 70%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#ferrari_500_1 {
+    background: url('http://www.aformulaonehistory.com/img/cars/ferrari_500_1.jpg') no-repeat center center;
+    background-size: auto 70%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#alfa_romeo_159 {
+    background: url('http://www.aformulaonehistory.com/img/cars/alfa_romeo_159.jpg') no-repeat center center;
+    border-bottom: 8px dashed #8d141d;
+    background-size: auto 60%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+#alfa_romeo_158 {
+    background: url('http://www.aformulaonehistory.com/img/cars/alfa_romeo_158.jpg') no-repeat center center;
+    background-size: auto 60%;
+    height: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+
+.alfa_romeo {
+    background: #aa1823;
+}
+
+.brabham {
+    background: #263623;
+}
+
+.brm {
+    background: #1d3a24;
+}
+
+.cooper {
+    background: #25332d;
+}
+
+.ferrari {
+    background: #c3181c;
+}
+
+.lotus {
+    background: #1e3223;
+}
+
+.lotus_red {
+    background: #aa002d;
+}
+
+.mercedes {
+    background: #c1c5c9;
+}
+
+.maserati {
+    background: #9f1923;
+}
+
+.matra {
+    background: #349dc6;
+}
